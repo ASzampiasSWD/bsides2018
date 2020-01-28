@@ -1,0 +1,15 @@
+https://github.com/attackdebris/kerberos_enum_userlists/blob/master/Female_First_Names_Top_500.txt
+https://github.com/attackdebris/kerberos_enum_userlists/blob/master/Male_First_Names_Top_500.txt
+
+1. Users will need to enumerate the username for admin-privledged user. (john is given to them).
+Login via login.php. Input (john'#). Key #1: WizardofWorTomMcHugh
+
+2. User will need to enumerate with Female_First_Names_Top_500.txt. Num 46 is jasmine. Key #2: jasmine
+
+3. User will need to login with (jasmine '#) and do a document.cookie = 'admin=true' to view the admin.php page. 
+Key #3: TempestDaveTheurer
+
+4. More to come! 
+
+
+
